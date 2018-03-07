@@ -14,7 +14,21 @@ Currently the app is a development in progress. The Customer interface is done, 
 
 ### How users can get started with the project?
 
-Users may get started by running `bamazonCustomer.js`
+User needs to be accessing a database called `bamazon_db` created with table `products` that includes list of products
+   * item_id (unique id for each product)
+
+   * product_name (Name of product)
+
+   * department_name
+
+   * price (cost to customer)
+
+   * stock_quantity (how much of the product is available in stores)
+
+ `bamazon.sql` and `products.txt` can help with this creation.
+
+
+Users may then get started by running `bamazonCustomer.js`
 
 ### Where users can get help with your project?
 
