@@ -1,0 +1,10 @@
+1,fujifilm instax mini,electronics,69.5,10
+2,tiday cats breeze pads,home and pets,38.25,25
+3,sport-brella,outdoors,25.76,50
+4,tile mate key finder,electronics,19.99,50
+5,echo plus,electronics,149.99,10
+6,sundome 4 person tent,outdoors,61.78,5
+7,tiday cats cat litter pellets,home and pets,38.6,30
+8,aztec secrete indian healing clay,health and personal care,8.97,50
+9,baebody eye gel,health and personal care,23.95,20
+10,truskin natural vitamin C serum,health and personal care,19.89,20
